@@ -3,7 +3,7 @@
 # Shopme - Grocery App
 
 ## 📌 Overview
-Shopme is a feature-rich grocery shopping app designed to simplify the shopping experience. Users can browse products, create shopping lists, track expenses, and place orders conveniently. The app is currently under development and aims to provide an efficient, user-friendly and seamless grocery shopping solution.
+Shopme is a feature-rich grocery shopping app designed to simplify shopping experience. Users can browse products, create shopping lists, track expenses and place orders conveniently. The app is currently under development and aims to provide an efficient, user-friendly and seamless grocery shopping solution.
 
 ## 🚀 Features (Planned & In Development)
 - 🛒 **Browse & Search Products** – Easily find groceries by category or search functionality.
